@@ -4,10 +4,10 @@ John 14:6
 
 # Good day/ night
 
-I am Momchil Kalestrov. A student living in the hellscape named "The Balkans".
-I'm currently studying programming. Is any of the code I write good? No, but
-my teachers say it is and she's been doing this all her life so I'd assume
-she knows better.
+I am Momchil Kalestrov. A student and a political radical living in the
+hellscape named "The Balkans". I am currently studying programming. Is any
+of the code I write good? No, but my teachers say it is and they've been
+doing this all her life so I'd assume they know better.
 
 Multiple of my projects have been used in IT competitions and have won multiple
 awards. Here's a list:
@@ -32,4 +32,5 @@ get the highest score by using the mathematical operations on the board
 - **PhysicsCalc 9G** was a desktop program that visualized theories and
 automatically calculated formulas in the sphere of physics
 
+![123](https://github-profile-trophy.vercel.app/?username=momchilkalestrov)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MomchilKalestrov&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
