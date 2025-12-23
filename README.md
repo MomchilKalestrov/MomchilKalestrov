@@ -7,7 +7,7 @@ John 14:6
 I am Momchil Kalestrov. A student and a political radical living in the
 hellscape named "The Balkans". I am currently studying programming. Is any
 of the code I write good? No, but my teachers say it is and they've been
-doing this all her life so I'd assume they know better.
+doing this all their lives so I'd assume they know better.
 
 Multiple of my projects have been used in IT competitions and have won multiple
 awards. Here's a list:
@@ -16,11 +16,13 @@ place in the national forum "Science, technologies, innovations and business"
 and recieved an award in the winter session of UchIMI 2024
 - **BasicOS** has been awarded in national competition "Young Inventors" and
 national conference "IT and Automation"
-- **MathTrix** has been awarded 2-nd place in the national conference "Physics-engineering-technologies"
-- **PhysicsCalc 9G** has been awarded 1-st place in the national conference "Physics-engineering-technologies"
+- **MathTrix** has been awarded 2-nd place in the national conference
+"Physics-engineering-technologies"
+- **PhysicsCalc 9G** has been awarded 1-st place in the national conference
+"Physics-engineering-technologies"
 - Even though these aren't awards, both BasicOS and Venturo have reached the
 national level of the national IT competition. BasicOS in particular was in 6th
-place in it's category. As for Venturo, we'll see on the 10th of May :).
+place in it's category. ~~As for Venturo, we'll see on the 10th of May :).~~ I fumbled again LMAO
 
 But you may be asking: "What even are these projects?". Well, let me tell you about them:
 - **Venturo** is a mobile game encouraging sightseeing in Bulgaria by earning
@@ -31,6 +33,8 @@ now. Unfortunately I have practically abandoned it because I have no time :(
 get the highest score by using the mathematical operations on the board
 - **PhysicsCalc 9G** was a desktop program that visualized theories and
 automatically calculated formulas in the sphere of physics
+- **SeraphimCMS**, my latest one, which I haven't gone to any competitions with, is a website builder.
+There is plugin and custom themes support along with an API. There is also a basic plugin marketplace
 
 ![123](https://github-profile-trophy.vercel.app/?username=momchilkalestrov)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MomchilKalestrov&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
