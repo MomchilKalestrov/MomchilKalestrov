@@ -82,7 +82,9 @@ assume they know better.
             <td>
                 Next.JS<br />
                 Typescript<br />
-                MongoDB
+                MongoDB<br />
+                NodeGUI<br />
+                C<br />
             </td>
             <td>
                 Next.JS<br />
