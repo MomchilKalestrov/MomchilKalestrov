@@ -1,13 +1,15 @@
-> I am the way and the truth and the life. No one comes to the Father except through me.
+> "Направо му давайте на това момче дипломата за висше образование и да почва работа"
+- I don't remember who :/
 
-John 14:6
+I have migrated to [GitLab](gitlab.com/Momchil_Kalestrov/)! If you want
+to keep up to date with my CompSci journey, you should probably look
+there.
 
 # Good day/ night
 
-I am Momchil Kalestrov. A student  living in the hellscape named "The Balkans".
-I am currently studying programming. Is any of the code I write good? No, but
-my teachers say it is and they've been doing this all their lives so I'd
-assume they know better.
+I am Momchil Kalestrov - a high school graduate residing in Bulgaria.
+I am currently studying programming. Is any of the code I write good?
+Well, when I put in effort, yes. When I'm not, it's still... readable.
 
 # Projects
 
@@ -80,6 +82,23 @@ assume they know better.
         </tr>
         <tr>
             <td>
+                Made in 12th grade
+            </td>
+            <td>
+                Made in 11th grade
+            </td>
+            <td>
+                Made in 10th grade
+            </td>
+            <td>
+                Made in 10th grade
+            </td>
+            <td>
+                Made in 9th grade
+            </td>
+        </tr>
+        <tr>
+            <td>
                 Next.JS<br />
                 Typescript<br />
                 MongoDB<br />
@@ -106,7 +125,7 @@ assume they know better.
         </tr>
         <tr>
             <td>
-                haven't won anything yet
+                - hasn't won anything T~T
             </td>
             <td>
                 - won 2-nd place in the national forum "Science, technologies, innovations and business"<br />
@@ -160,5 +179,7 @@ assume they know better.
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
 </p>
 
-![123](https://github-profile-trophy.vercel.app/?username=momchilkalestrov)
+![trophies](https://github-profile-trophy.vercel.app/?username=momchilkalestrov)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MomchilKalestrov&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+_Psst, I use Arch, BTW_
